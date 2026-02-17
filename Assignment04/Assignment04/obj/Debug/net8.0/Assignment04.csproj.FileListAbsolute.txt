@@ -1,0 +1,14 @@
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\bin\Debug\net8.0\Assignment04.exe
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\bin\Debug\net8.0\Assignment04.deps.json
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\bin\Debug\net8.0\Assignment04.runtimeconfig.json
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\bin\Debug\net8.0\Assignment04.dll
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\bin\Debug\net8.0\Assignment04.pdb
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfoInputs.cache
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfo.cs
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.csproj.CoreCompileInputs.cache
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.dll
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\refint\Assignment04.dll
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.pdb
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\Assignment04.genruntimeconfig.cache
+D:\Back_End\Assignmnts\C#\A_04\Assignment04\Assignment04\obj\Debug\net8.0\ref\Assignment04.dll
